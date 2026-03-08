@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project Overview
 
 TravelHub is a travel booking platform designed to help users search destinations, explore travel packages, book trips and flight ticket online.
@@ -63,3 +64,6 @@ Each defect includes:
 1. Multiple functional issues were identified during test execution.
 2. Bugs were documented and tracked through Jira for resolution.
 3. Test documentation provides traceability between requirements and test casees.  
+=======
+# travel-hub-booking-reservation-manual-testing-project
+>>>>>>> e9a3f950958a86414abf453278500b8511b07f7b
